@@ -35,10 +35,12 @@ My GitHub page is http://github.com/CSUFSlater.
 ### Lab 12
 
   * Lab 12, part 1 had to be my overall favorite due to it creating graphics like
-    a gradient image which was a really fun and new experience. It was amazing to
-    see how the image changed when I changed some of the code and it turned into
-    a completely different image. This had to be the most fun and entertaining lab
-    out of all the 12 labs we did throughout the semester due to the fact that had the
-    opportunity to experiment with graphic design. (See Below)
+    a gradient image which was a really fun and new experience. In addition, it was
+    also a somewhat challenging lab as the image had to be exactly the same as the
+    expected output image. It was amazing to see how the image changed when I changed
+    some of the code and it turned into a completely different image. This had to be
+    the most fun and entertaining lab out of all the 12 labs we did throughout the
+    semester due to the fact that had the opportunity to experiment with graphic design.
+    (See Below)
 
 ![Lab 12 Gradient Image](gradient.png)
