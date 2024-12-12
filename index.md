@@ -39,4 +39,6 @@ My GitHub page is http://github.com/CSUFSlater.
     see how the image changed when I changed some of the code and it turned into
     a completely different image. This had to be the most fun and entertaining lab
     out of all the 12 labs we did throughout the semester due to the fact that had the
-    opportunity to experiment with graphic design.
+    opportunity to experiment with graphic design. (See Below)
+
+![Lab 12 Gradient Image](gradient.png)
