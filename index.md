@@ -2,7 +2,7 @@
 
 This is my home page! My name is Luka Slater and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 I have been a self-taught software engineer for the past 4 years as I have been doing occasional freelance work for others but also creating small
-projects for myself such as webpage automation, anti-cheat reverse engineering, and using AI recognition with yolo-v8. Over the years I have gotten
+projects for myself such as webpage automation, anti-cheat reverse engineering in C++, and using AI recognition with yolo-v8 in Python. Over the years I have gotten
 to code in Python, C++, C#, Javascript/NodeJS, and HTML.
 
 ## Computer Science Projects
