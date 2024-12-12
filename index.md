@@ -16,10 +16,10 @@ My GitHub page is http://github.com/CSUFSlater.
   * Lab 7, Part 2, has been my favorite lab so far because it gave me the unique
     opportunity to bring one of my favorite games, blackjack, to life through coding.
     Developing a blackjack game combined my passion for the card game with my love for
-    problem-solving in computer science. This lab was not just a learning experience—it
-    was a rewarding challenge that made coding feel like a creative and engaging endeavor.
-    I have heard in the past from others that blackjack is a good coding project for
-    beginners in the computer science world and after doing so I can definetly agree.
+    problem-solving in computer science. This lab was not just a learning experience, but
+    also it was a rewarding challenge that made coding feel like a creative and engaging
+    endeavor. I have heard in the past from others that blackjack is a good coding project
+    for beginners in the computer science world and after doing so I can definetly agree.
     
 ### Lab 11
 
