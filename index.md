@@ -21,8 +21,8 @@ My GitHub page is http://github.com/CSUFSlater.
 ### Lab 11
 
   * Lab 11, Part 1, was one of the most challenging yet rewarding labs I’ve worked on so
-  * far. I enjoyed it because it pushed my coding skills to the next level, especially in
-  * working with CSV files. It was fascinating to see how we could use CSV files to store
+    far. I enjoyed it because it pushed my coding skills to the next level, especially in
+    working with CSV files. It was fascinating to see how we could use CSV files to store
     and read large amounts of data, and then write code to analyze it for things like
     population, land area, and ensity. This lab really opened my eyes to the practical
     applications of programming in organizing and interpreting data efficiently. I know
